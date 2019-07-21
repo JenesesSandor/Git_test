@@ -1,5 +1,5 @@
-def összead():
-    pass
+def összead(a,b):
+    return a+b
 
 
 def kivonás():
