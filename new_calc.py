@@ -8,3 +8,8 @@ def összead(number1, number2):
 def kivonás(a,b):
     return a -b
 
+def szorzás(a, b):
+    return a *b
+
+
+
