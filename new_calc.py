@@ -5,5 +5,6 @@ def összead(number1, number2):
 
 
 
-def kivonás():
-    pass
+def kivonás(a,b):
+    return a -b
+
