@@ -12,4 +12,11 @@ def szorzás(a, b):
     return a *b
 
 
+def osztás(a,b):
+    try:
+        return a/b
+    except ZeroDivisionError:
+        print("Nullával nem lehetséges az osztás")
+
+
 
